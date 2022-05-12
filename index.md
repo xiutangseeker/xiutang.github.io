@@ -14,11 +14,11 @@ My research interests lie generally in the area of Database Query Optimization, 
   The ACM Special Interest Group on Management of Data (**SIGMOD**), 2022.  
   
 - **Xiu Tang**, Sai Wu, Gang Chen, Jinyang Gao, Wei Cao, Zhifei Pang.  
-  A Learning to Tune Framework for LSH.  
+  [A Learning to Tune Framework for LSH.](https://ieeexplore.ieee.org/document/9458776)  
   International Conference on Data Engineering (**ICDE**), 2021.  
   
 - **Xiu Tang**, Sai Wu, Gang Chen, Ke Chen, Lidan Shou.  
-  Learning to Label with Active Learning and Reinforcement Learning.  
+  [Learning to Label with Active Learning and Reinforcement Learning.](https://link.springer.com/chapter/10.1007/978-3-030-73197-7_36)  
   Database Systems for Advanced Applications (**DASFAA**), 2021.  
 
 ### EDUCATION
