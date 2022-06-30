@@ -10,7 +10,7 @@ My research interests lie generally in the area of Database Query Optimization, 
 ### PAPERS
 
 - **Xiu Tang**, Sai Wu, Mingli Song, Shanshan Ying, Feifei Li, Gang Chen.  
-  PreQR: Pre-training Representation for SQL Understanding.  
+  [PreQR: Pre-training Representation for SQL Understanding.](https://dl.acm.org/doi/10.1145/3514221.3517878)  
   The ACM Special Interest Group on Management of Data (**SIGMOD**), 2022.  
   
 - **Xiu Tang**, Sai Wu, Gang Chen, Jinyang Gao, Wei Cao, Zhifei Pang.  
