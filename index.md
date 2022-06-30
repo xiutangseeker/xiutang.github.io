@@ -30,5 +30,5 @@ My research interests lie generally in the area of Database Query Optimization, 
 - Bachelor's degree in software engineering. Shandong University of Science and Technology, QingDao, China (Sept. 2013 - Jun. 2017)  
 
 ### INTERNSHIP
-Research Intern of Alibaba PolarDB Optimizer and SQL Group, Hangzhou, China (Apr. 2020 - Present)   
-Advisor: Jimmy Yang
+- Research Intern of Alibaba PolarDB Optimizer and SQL Group, Hangzhou, China (Apr. 2020 - Present)   
+  Advisor: Jimmy Yang
