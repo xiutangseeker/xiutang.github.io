@@ -21,13 +21,13 @@ My research interests lie generally in the area of Database Query Optimization, 
   [Learning to Label with Active Learning and Reinforcement Learning.](https://link.springer.com/chapter/10.1007/978-3-030-73197-7_36)  
   Database Systems for Advanced Applications (**DASFAA**), 2021.  
   
-- **Xiu Tang**, Yangchao Xu, Xuefeng Lu, Qiang He, Jun Fang, Junjie Chen.
-  DeMRC: Dynamically Enhanced Multi-hop Reading Comprehension Model for Low Data.
-  Advanced Data Mining and Applications (**ADMA**), 2022.  
+- **Xiu Tang**, Yangchao Xu, Xuefeng Lu, Qiang He, Jun Fang, Junjie Chen. 
+  DeMRC: Dynamically Enhanced Multi-hop Reading Comprehension Model for Low Data. 
+  Advanced Data Mining and Applications (**ADMA**), 2022.   
   
-- Ce Xu, **Xiu Tang**, Peng Lu.  
-  Using the Strongest Adversarial Example to Alleviate Robust Overfitting.
-  Advanced Data Mining and Applications (**ADMA**), 2022.  
+- Ce Xu, **Xiu Tang**, Peng Lu.   
+  Using the Strongest Adversarial Example to Alleviate Robust Overfitting. 
+  Advanced Data Mining and Applications (**ADMA**), 2022.   
 
 ### EDUCATION
 
