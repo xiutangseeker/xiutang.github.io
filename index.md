@@ -40,6 +40,7 @@ My research interests lie generally in the area of Database Query Optimization, 
 - Master Degree in Software Engineering. Zhejiang University, Hangzhou, China (Sept. 2017 - Jun. 2019)  
   Advisor: Prof. Sai Wu  
 - Bachelor Degree in Software Engineering. Shandong University of Science and Technology, QingDao, China (Sept. 2013 - Jun. 2017)  
+  Advisor: Prof. [Lina Ni](https://dblp.uni-trier.de/pid/47/6972.html)
 
 ### INTERNSHIP
 - Research Intern of Alibaba PolarDB Optimizer and SQL Group, Hangzhou, China (Apr. 2020 - Present)   
