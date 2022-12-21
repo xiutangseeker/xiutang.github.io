@@ -3,9 +3,9 @@
 PhD Student  
 The College of Computer Science and Technology  
 Zhejiang University, China  
-Email: tangxiu@zju.edu.cn / [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=INkJByIAAAAJ)  
+Email: tangxiu@zju.edu.cn / [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=INkJByIAAAAJ) / Wechat: xiuzju 
 
-My research interests lie generally in the area of Database Query Optimization, including DB testing, AI for DB and Index Tuning.
+My research interests lie generally in the area of Database Query Optimization, including AI for DB, DB testing and Index Tuning.
 
 ### PAPERS
 
@@ -38,10 +38,10 @@ My research interests lie generally in the area of Database Query Optimization, 
 - Ph.D. Candidate in Database. Zhejiang University, Hangzhou, China (Sept. 2019 - Present)  
   Advisor: Prof. [Sai Wu](https://scholar.google.com/citations?hl=zh-CN&user=RMaqDKAAAAAJ)  
 - Master Degree in Software Engineering. Zhejiang University, Hangzhou, China (Sept. 2017 - Jun. 2019)  
-  Advisor: Prof. Sai Wu  
+  Advisor: Prof. [Sai Wu](https://scholar.google.com/citations?hl=zh-CN&user=RMaqDKAAAAAJ) 
 - Bachelor Degree in Software Engineering. Shandong University of Science and Technology, QingDao, China (Sept. 2013 - Jun. 2017)  
   Advisor: Prof. [Lina Ni](https://dblp.uni-trier.de/pid/47/6972.html)
 
 ### INTERNSHIP
 - Research Intern of Alibaba PolarDB Optimizer and SQL Group, Hangzhou, China (Apr. 2020 - Present)   
-  Advisor: Jimmy Yang
+  Advisor: [Jimmy Yang](https://dblp.uni-trier.de/pid/295/3640.html)
