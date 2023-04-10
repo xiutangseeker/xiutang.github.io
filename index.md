@@ -34,7 +34,7 @@ My research interests lie generally in the area of Database Query Optimization, 
 
 ### EDUCATION
 
-- Ph.D. Candidate in Database. Zhejiang University, Hangzhou, China (Sept. 2019 - Present)  
+- Ph.D. Candidate in Database. Zhejiang University, Hangzhou, China (Sept. 2019 - Mar. 2023)  
   Advisor: Prof. [Sai Wu](https://scholar.google.com/citations?hl=zh-CN&user=RMaqDKAAAAAJ)  
 - Master Degree in Software Engineering. Zhejiang University, Hangzhou, China (Sept. 2017 - Jun. 2019)  
   Advisor: Prof. [Sai Wu](https://scholar.google.com/citations?hl=zh-CN&user=RMaqDKAAAAAJ) 
