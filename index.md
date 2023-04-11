@@ -1,7 +1,5 @@
-### Xiu Tang
-
-Distinguished Research Fellow
-School of Software Technology
+Distinguished Research Fellow  
+School of Software Technology  
 Zhejiang University, China  
 Email: tangxiu@zju.edu.cn / [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=INkJByIAAAAJ) 
 
