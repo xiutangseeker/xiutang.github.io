@@ -1,6 +1,7 @@
+### Xiu Tang
 
-PhD Student  
-The College of Computer Science and Technology  
+Distinguished Research Fellow
+School of Software Technology
 Zhejiang University, China  
 Email: tangxiu@zju.edu.cn / [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=INkJByIAAAAJ) 
 
@@ -34,7 +35,7 @@ My research interests lie generally in the area of Database Query Optimization, 
 
 ### EDUCATION
 
-- Ph.D. Candidate in Database. Zhejiang University, Hangzhou, China (Sept. 2019 - Mar. 2023)  
+- PhD in Computer Science and Technology. Zhejiang University, Hangzhou, China (Sept. 2019 - Mar. 2023)  
   Advisor: Prof. [Sai Wu](https://scholar.google.com/citations?hl=zh-CN&user=RMaqDKAAAAAJ)  
 - Master Degree in Software Engineering. Zhejiang University, Hangzhou, China (Sept. 2017 - Jun. 2019)  
   Advisor: Prof. [Sai Wu](https://scholar.google.com/citations?hl=zh-CN&user=RMaqDKAAAAAJ) 
