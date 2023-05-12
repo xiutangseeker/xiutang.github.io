@@ -1,5 +1,5 @@
-Distinguished Research Fellow  
-School of Software Technology  
+PHD 
+School of Computer Science and Technology
 Zhejiang University, China  
 Email: tangxiu@zju.edu.cn / [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=INkJByIAAAAJ) 
 
@@ -9,7 +9,7 @@ My research interests lie generally in the area of Database Query Optimization, 
 
 - **Xiu Tang**, Sai Wu, Dongxiang Zhang, Feifei Li, Gang Chen.  
   Detecting Logic Bugs of Join Optimizations in DBMS.   
-  The ACM Special Interest Group on Management of Data (**SIGMOD**), 2023. (to appear)
+  The ACM Special Interest Group on Management of Data (**SIGMOD**), 2023. (<font color='red'> best paper </font>)
 
 - **Xiu Tang**, Sai Wu, Mingli Song, Shanshan Ying, Feifei Li, Gang Chen.  
   [PreQR: Pre-training Representation for SQL Understanding.](https://dl.acm.org/doi/10.1145/3514221.3517878)  
