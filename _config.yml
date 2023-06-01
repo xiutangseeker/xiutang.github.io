@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: Xiu Tang
 
 logo: './xiutang.jpg'
-show_downloads: "false"
+show_downloads: false
 google_analytics: 11
