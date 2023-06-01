@@ -41,4 +41,4 @@ My research interests lie generally in the area of Database Query Optimization, 
 
 ### INTERNSHIP
 - Research Intern of Alibaba PolarDB Optimizer and SQL Group, Hangzhou, China (Apr. 2020 - Apr. 2023)   
-  Advisor: [Jimmy Yang](https://dblp.uni-trier.de/pid/295/3640.html)
+  Advisor: [Jimmy Yang](https://dblp.uni-trier.de/pid/295/3640.html), [Shanshan Ying](https://dblp.org/pid/80/9726.html)  
