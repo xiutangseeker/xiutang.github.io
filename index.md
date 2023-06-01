@@ -2,7 +2,7 @@ Distinguished Research Fellow
 School of Software, Zhejiang University, China   
 Email: tangxiu@zju.edu.cn / [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=INkJByIAAAAJ)  
 
-My research interests lie generally in the area of Database Query Optimization, including Query optimization, DB testing and AI & DB.
+My research interests lie generally in the area of Database Query Optimization, including AI & DB, DB testing and index tuning.
 
 ### PAPERS
 
