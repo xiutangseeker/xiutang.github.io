@@ -8,7 +8,7 @@ My research interests lie generally in the area of Database Query Optimization, 
 
 - **Xiu Tang**, Sai Wu, Dongxiang Zhang, Feifei Li, Gang Chen.  
   [Detecting Logic Bugs of Join Optimizations in DBMS.](https://dl.acm.org/doi/10.1145/3588909)   
-  The ACM Special Interest Group on Management of Data (**SIGMOD**), 2023. <font style = color:red;font–weight:bold> Best Paper Award </font>
+  The ACM Special Interest Group on Management of Data (**SIGMOD**), 2023. ** `Best Paper Award` **  
 
 - **Xiu Tang**, Sai Wu, Mingli Song, Shanshan Ying, Feifei Li, Gang Chen.  
   [PreQR: Pre-training Representation for SQL Understanding.](https://dl.acm.org/doi/10.1145/3514221.3517878)  
