@@ -8,7 +8,7 @@ My research interests lie generally in the area of Database Query Optimization, 
 
 - **Xiu Tang**, Sai Wu, Dongxiang Zhang, Ziyue Wang, Gongsheng Yuan, Gang Chen.  
   A Demonstration of DLBD: Database Logic Bug Detection System.  
-  International Conference on Very Large Data Bases (**VLDB**), 2023. (to appear)    
+  International Conference on Very Large Data Bases (**VLDB**), 2023. ([source code](https://github.com/xiutangzju/dlbd), to appear)    
 
 - **Xiu Tang**, Sai Wu, Dongxiang Zhang, Feifei Li, Gang Chen.  
   [Detecting Logic Bugs of Join Optimizations in DBMS.](https://dl.acm.org/doi/10.1145/3588909)   
