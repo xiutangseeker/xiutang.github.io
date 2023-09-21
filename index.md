@@ -43,13 +43,13 @@ I am currently looking for PhD students to work on AI & DB and DB testing. Pleas
   Advisor: Prof. [Sai Wu](https://scholar.google.com/citations?hl=zh-CN&user=RMaqDKAAAAAJ)
 
 ### STUDENTS
+Xu Gao, PhD, started in 2023 
 Shijie Yang, Master, started in 2022  
 Han Lin, Master, started in 2023  
 Yuanrong Wu, Master, started in 2023  
 Wenhao Liu, Master, started in 2023  
 Xingjian Huang, Master, started in 2023  
 Mengfei Cai, Master, started in 2023  
-Xu Gao, PhD, started in 2023  
   
 ### INTERNSHIP
 - Research Intern of Alibaba PolarDB Optimizer and SQL Group, Hangzhou, China (Apr. 2020 - Apr. 2023)   
