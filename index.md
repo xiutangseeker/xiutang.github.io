@@ -35,12 +35,7 @@ I am currently looking for PhD students to work on AI & DB and DB testing. Pleas
   
 - Ce Xu, **Xiu Tang**, Peng Lu.    
   [Using the Strongest Adversarial Example to Alleviate Robust Overfitting.](https://link.springer.com/chapter/10.1007/978-3-031-22137-8_27)  
-  Advanced Data Mining and Applications (**ADMA**), 2022.    
-
-### EDUCATION
-
-- PhD in Computer Science and Technology. Zhejiang University, Hangzhou, China (Mar. 2023)  
-  Advisor: Prof. [Sai Wu](https://scholar.google.com/citations?hl=zh-CN&user=RMaqDKAAAAAJ)
+  Advanced Data Mining and Applications (**ADMA**), 2022.
 
 ### STUDENTS
 Xu Gao, PhD, started in 2023     
@@ -50,6 +45,11 @@ Yuanrong Wu, Master, started in 2023
 Wenhao Liu, Master, started in 2023  
 Xingjian Huang, Master, started in 2023  
 Mengfei Cai, Master, started in 2023  
+
+### EDUCATION
+
+- PhD in Computer Science and Technology. Zhejiang University, Hangzhou, China (Mar. 2023)  
+  Advisor: Prof. [Sai Wu](https://scholar.google.com/citations?hl=zh-CN&user=RMaqDKAAAAAJ)
   
 ### INTERNSHIP
 - Research Intern of Alibaba PolarDB Optimizer and SQL Group, Hangzhou, China (Apr. 2020 - Apr. 2023)   
