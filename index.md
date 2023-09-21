@@ -36,12 +36,17 @@ My research interests lie generally in the area of Database Query Optimization, 
 
 ### EDUCATION
 
-- PhD in Computer Science and Technology. Zhejiang University, Hangzhou, China (Sept. 2019 - Mar. 2023)  
-  Advisor: Prof. [Sai Wu](https://scholar.google.com/citations?hl=zh-CN&user=RMaqDKAAAAAJ)  
-- Master Degree in Software Engineering. Zhejiang University, Hangzhou, China (Sept. 2017 - Jun. 2019)  
-  Advisor: Prof. [Sai Wu](https://scholar.google.com/citations?hl=zh-CN&user=RMaqDKAAAAAJ) 
-- Bachelor Degree in Software Engineering. Shandong University of Science and Technology, QingDao, China (Sept. 2013 - Jun. 2017)  
-  Advisor: Prof. [Lina Ni](https://dblp.uni-trier.de/pid/47/6972.html)
+- PhD in Computer Science and Technology. Zhejiang University, Hangzhou, China (Mar. 2023)  
+  Advisor: Prof. [Sai Wu](https://scholar.google.com/citations?hl=zh-CN&user=RMaqDKAAAAAJ)
+
+### STUDENTS
+Shijie Yang
+Han Lin
+Yuanrong Wu
+Wenhao Liu
+Xingjian Huang
+Mengfei Cai
+Xu Gao
 
 ### INTERNSHIP
 - Research Intern of Alibaba PolarDB Optimizer and SQL Group, Hangzhou, China (Apr. 2020 - Apr. 2023)   
