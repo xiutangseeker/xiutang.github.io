@@ -9,7 +9,7 @@ I am currently looking for PhD students to work on AI & DB and DB testing. Pleas
 
 ### PAPERS
 
-- Haitian Hang, Xiu Tang, Jianling Sun, Lingfeng Bao, David Lo, Haoye Wang.    
+- Haitian Hang, **Xiu Tang**, Jianling Sun, Lingfeng Bao, David Lo, Haoye Wang.    
   Robust Auto-Scaling with Probabilistic Workload Forecasting for Cloud Databases.  
   IEEE International Conference on Data Engineering (**ICDE**), 2024.  
 
