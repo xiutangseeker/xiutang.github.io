@@ -9,6 +9,10 @@ I am currently looking for PhD students to work on AI & DB and DB testing. Pleas
 
 ### PAPERS
 
+- Haitian Hang, Xiu Tang, Jianling Sun, Lingfeng Bao, David Lo, Haoye Wang.    
+  Robust Auto-Scaling with Probabilistic Workload Forecasting for Cloud Databases.  
+  IEEE International Conference on Data Engineering (**ICDE**), 2024.  
+
 - **Xiu Tang**, Sai Wu, Dongxiang Zhang, Ziyue Wang, Gongsheng Yuan, Gang Chen.  
   [A Demonstration of DLBD: Database Logic Bug Detection System.](https://www.vldb.org/pvldb/vol16/p3914-wu.pdf)  
   International Conference on Very Large Data Bases (**VLDB**), 2023. ([source code](https://github.com/xiutangzju/dlbd))    
