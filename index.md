@@ -60,6 +60,6 @@ Mengfei Cai, Master, started in 2023
   Advisor: [Jimmy Yang](https://dblp.uni-trier.de/pid/295/3640.html), [Shanshan Ying](https://dblp.org/pid/80/9726.html)
    
 ### Program Committee Member (Reviewer): 
-Transactions on Knowledge and Data Engineering 
-Testing Database Systems 2024 (DBTest’24) 
+Transactions on Knowledge and Data Engineering   
+Testing Database Systems 2024 (DBTest’24)   
 
