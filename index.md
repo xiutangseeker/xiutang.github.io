@@ -62,5 +62,5 @@ Mengfei Cai, Master, started in 2023
 ### Program Committee Member (Reviewer): 
 Transactions on Knowledge and Data Engineering (TKDE)  
 The Conference on Information and Knowledge Management (CIKM) 2024  
-Testing Database Systems 2024 (DBTest’24)   
+2024 ACM SIGMOD/PODS Workshop Testing Database Systems 2024 (DBTest’24)   
 
