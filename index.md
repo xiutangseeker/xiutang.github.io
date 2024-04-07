@@ -28,6 +28,10 @@ I am currently looking for PhD students to work on AI & DB and DB testing. Pleas
 - **Xiu Tang**, Sai Wu, Gang Chen, Jinyang Gao, Wei Cao, Zhifei Pang.  
   [A Learning to Tune Framework for LSH.](https://ieeexplore.ieee.org/document/9458776)  
   International Conference on Data Engineering (**ICDE**), 2021.  
+
+- Lilong Wen, **Xiu Tang**, Dongxiang Zhang.  
+  TWIST: Text-only Weakly Supervised Scene Text Spotting Using Pseudo Labels.  
+  International Conference on Multimedia Retrieval (**ICMR**), 2024.   
   
 - **Xiu Tang**, Sai Wu, Gang Chen, Ke Chen, Lidan Shou.  
   [Learning to Label with Active Learning and Reinforcement Learning.](https://link.springer.com/chapter/10.1007/978-3-030-73197-7_36)  
