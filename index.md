@@ -37,6 +37,10 @@ I am currently looking for PhD students to work on AI & DB and DB testing. Pleas
   [Learning to Label with Active Learning and Reinforcement Learning.](https://link.springer.com/chapter/10.1007/978-3-030-73197-7_36)  
   Database Systems for Advanced Applications (**DASFAA**), 2021.  
   
+- Haitian Hang, **Xiu Tang**, Bo Zhu, Jianlin Sun.  
+  Unlocking the Power of Diversity in Index Tuning for Cluster Databases.   
+  International Conference on Database and Expert Systems Applications (**DEXA**), 2024.  
+  
 - **Xiu Tang**, Yangchao Xu, Xuefeng Lu, Qiang He, Jun Fang, Junjie Chen.  
   [DeMRC: Dynamically Enhanced Multi-hop Reading Comprehension Model for Low Data.](https://link.springer.com/chapter/10.1007/978-3-031-22137-8_4)  
   Advanced Data Mining and Applications (**ADMA**), 2022.    
