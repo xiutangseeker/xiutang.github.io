@@ -68,7 +68,7 @@ Mengfei Cai, Master, started in 2023
   Advisor: [Jimmy Yang](https://dblp.uni-trier.de/pid/295/3640.html), [Shanshan Ying](https://dblp.org/pid/80/9726.html)
    
 ### Program Committee Member (Reviewer): 
-Transactions on Knowledge and Data Engineering (TKDE)  
+Transactions on Knowledge and Data Engineering (TKDE) 2024    
 The Conference on Information and Knowledge Management (CIKM) 2024  
 11th DBTest@SIGMOD 2024 (DBTest’24)   
 
