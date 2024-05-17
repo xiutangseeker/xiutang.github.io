@@ -52,7 +52,7 @@ I am currently looking for PhD students to work on AI & DB and DB testing. Pleas
 ### STUDENTS
 Xu Gao, PhD, started in 2023  
 Xuhang Zhu, PhD, started in 2024  
-Shijie Yang, Master, started in 2022, ByteDance.    
+Shijie Yang, Master, started in 2022, ByteDance.      
 Han Lin, Master, started in 2023  
 Yuanrong Wu, Master, started in 2023  
 Wenhao Liu, Master, started in 2023  
