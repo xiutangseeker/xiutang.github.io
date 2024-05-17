@@ -50,13 +50,18 @@ I am currently looking for PhD students to work on AI & DB and DB testing. Pleas
   Advanced Data Mining and Applications (**ADMA**), 2022.
 
 ### STUDENTS
-Xu Gao, PhD, started in 2023     
+Xu Gao, PhD, started in 2023  
+Xuhang Zhu, PhD, started in 2024  
 Shijie Yang, Master, started in 2022    
 Han Lin, Master, started in 2023  
 Yuanrong Wu, Master, started in 2023  
 Wenhao Liu, Master, started in 2023  
 Xingjian Huang, Master, started in 2023  
 Mengfei Cai, Master, started in 2023  
+Jichen Li, Master, started in 2024  
+Wenxue Cao, Master, started in 2024  
+Jianhao Shao, Master, started in 2024  
+Peiqi Luo,  Master, started in 2024  
 
 ### EDUCATION
 
