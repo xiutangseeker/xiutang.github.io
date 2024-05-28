@@ -30,7 +30,7 @@ I am currently looking for PhD students to work on AI & DB and DB testing. Pleas
   International Conference on Data Engineering (**ICDE**), 2021.
 
 - Zhen Zhu, Yibo Wang, Shouqing Yang, Lin Long, Runze Wu, **Xiu Tang**, Junbo Zhao, Haobo Wang.  
-  CORAL: Collaborative Automatic Labeling System based on Large Language Models.
+  CORAL: Collaborative Automatic Labeling System based on Large Language Models.   
   International Conference on Very Large Data Bases (**VLDB**), 2024.  
   
 - Lilong Wen, **Xiu Tang**, Dongxiang Zhang.  
