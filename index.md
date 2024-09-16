@@ -9,7 +9,7 @@ I am currently looking for PhD students to work on AI & DB and DB testing. Pleas
 
 ### PAPERS
 
-- **Xiu Tang**, Wenhao Liu, Sai Wu, Chang Yao, Gongsheng Yuan, Shanshan Ying, Gang Chen.
+- **Xiu Tang**, Wenhao Liu, Sai Wu, Chang Yao, Gongsheng Yuan, Shanshan Ying, Gang Chen.    
   QueryArtisan: Generating Data Manipulation Codes for Ad-hoc Analysis in Data Lakes.
   International Conference on Very Large Data Bases (**VLDB**), 2025.  
   
