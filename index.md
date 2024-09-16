@@ -34,11 +34,11 @@ I am currently looking for PhD students to work on AI & DB and DB testing. Pleas
   International Conference on Data Engineering (**ICDE**), 2021.
 
 - Zhen Zhu, Yibo Wang, Shouqing Yang, Lin Long, Runze Wu, **Xiu Tang**, Junbo Zhao, Haobo Wang.  
-  CORAL: Collaborative Automatic Labeling System based on Large Language Models.   
+  [CORAL: Collaborative Automatic Labeling System based on Large Language Models.](https://www.vldb.org/pvldb/vol17/p4401-zhu.pdf)     
   International Conference on Very Large Data Bases (**VLDB**), 2024.  
   
 - Lilong Wen, **Xiu Tang**, Dongxiang Zhang.  
-  TWIST: Text-only Weakly Supervised Scene Text Spotting Using Pseudo Labels.  
+  [TWIST: Text-only Weakly Supervised Scene Text Spotting Using Pseudo Labels.](https://dl.acm.org/doi/abs/10.1145/3652583.3658075)  
   International Conference on Multimedia Retrieval (**ICMR**), 2024.   
   
 - **Xiu Tang**, Sai Wu, Gang Chen, Ke Chen, Lidan Shou.  
@@ -46,7 +46,7 @@ I am currently looking for PhD students to work on AI & DB and DB testing. Pleas
   Database Systems for Advanced Applications (**DASFAA**), 2021.  
   
 - Haitian Hang, **Xiu Tang**, Bo Zhu, Jianlin Sun.  
-  Unlocking the Power of Diversity in Index Tuning for Cluster Databases.   
+  [Unlocking the Power of Diversity in Index Tuning for Cluster Databases.](https://link.springer.com/chapter/10.1007/978-3-031-68312-1_15)     
   International Conference on Database and Expert Systems Applications (**DEXA**), 2024.  
   
 - **Xiu Tang**, Yangchao Xu, Xuefeng Lu, Qiang He, Jun Fang, Junjie Chen.  
