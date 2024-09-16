@@ -19,7 +19,7 @@ I am currently looking for PhD students to work on AI & DB and DB testing. Pleas
 
 - **Xiu Tang**, Sai Wu, Dongxiang Zhang, Ziyue Wang, Gongsheng Yuan, Gang Chen.  
   [A Demonstration of DLBD: Database Logic Bug Detection System.](https://www.vldb.org/pvldb/vol16/p3914-wu.pdf)  
-  International Conference on Very Large Data Bases (**VLDB**), 2023. ([source code](https://github.com/xiutangzju/dlbd))    
+  International Conference on Very Large Data Bases (**VLDB**), 2023.   
 
 - **Xiu Tang**, Sai Wu, Dongxiang Zhang, Feifei Li, Gang Chen.  
   [Detecting Logic Bugs of Join Optimizations in DBMS.](https://dl.acm.org/doi/10.1145/3588909)   
