@@ -40,7 +40,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   International Conference on Very Large Data Bases (**VLDB**), 2024.
 
 - Hongwei Yuan, **Xiu Tang**, Ke Chen, Lidan Shou, Gang Chen, Huan Li.    
-  CogSQL: A Cognitive Framework for Enhancing Large Language Models in Text-to-SQL Translation.
+  CogSQL: A Cognitive Framework for Enhancing Large Language Models in Text-to-SQL Translation.  
   The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
 - Haitian Hang, **Xiu Tang**, Bo Zhu, Jianlin Sun.  
@@ -50,7 +50,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 #### Multimodal Learning & NLP 
 
 - Zhenlong Dai, Bingrui Chen, Zhuoluo Zhao, **Xiu Tang**, Sai Wu, Chang Yao, Zhipeng Gao, Jingyuan Chen.  
-  Less is More: Adaptive Program Repair with Bug Localization and Preference Learning.
+  Less is More: Adaptive Program Repair with Bug Localization and Preference Learning.  
   The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.  
   
 - Lilong Wen, **Xiu Tang**, Dongxiang Zhang.  
