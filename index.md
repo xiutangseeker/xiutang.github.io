@@ -43,15 +43,15 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   CogSQL: A Cognitive Framework for Enhancing Large Language Models in Text-to-SQL Translation.
   The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
-- Zhenlong Dai, Bingrui Chen, Zhuoluo Zhao, **Xiu Tang**, Sai Wu, Chang Yao, Zhipeng Gao, Jingyuan Chen.  
-  Less is More: Adaptive Program Repair with Bug Localization and Preference Learning.
-  The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.  
-
 - Haitian Hang, **Xiu Tang**, Bo Zhu, Jianlin Sun.  
   [Unlocking the Power of Diversity in Index Tuning for Cluster Databases.](https://link.springer.com/chapter/10.1007/978-3-031-68312-1_15)   
   International Conference on Database and Expert Systems Applications (**DEXA**), 2024.
 
 #### multimodal learning & NLP 
+
+- Zhenlong Dai, Bingrui Chen, Zhuoluo Zhao, **Xiu Tang**, Sai Wu, Chang Yao, Zhipeng Gao, Jingyuan Chen.  
+  Less is More: Adaptive Program Repair with Bug Localization and Preference Learning.
+  The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.  
   
 - Lilong Wen, **Xiu Tang**, Dongxiang Zhang.  
   [TWIST: Text-only Weakly Supervised Scene Text Spotting Using Pseudo Labels.](https://dl.acm.org/doi/abs/10.1145/3652583.3658075)  
