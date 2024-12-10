@@ -47,7 +47,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   [Unlocking the Power of Diversity in Index Tuning for Cluster Databases.](https://link.springer.com/chapter/10.1007/978-3-031-68312-1_15)   
   International Conference on Database and Expert Systems Applications (**DEXA**), 2024.
 
-#### multimodal learning & NLP 
+#### Multimodal Learning & NLP 
 
 - Zhenlong Dai, Bingrui Chen, Zhuoluo Zhao, **Xiu Tang**, Sai Wu, Chang Yao, Zhipeng Gao, Jingyuan Chen.  
   Less is More: Adaptive Program Repair with Bug Localization and Preference Learning.
