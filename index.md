@@ -2,12 +2,14 @@ Assistant Professor
 School of Software, Zhejiang University, China   
 Email: tangxiu@zju.edu.cn / [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=INkJByIAAAAJ)  
 
-My research interests lie generally in the area of Database Query Optimization, including AI & DB, DB testing and index tuning.  
+My research interests lie generally in the area of AI & DB, including database query optimization, DB testing and index tuning.  
 
 ### News
-I am currently looking for PhD students to work on AI & DB and DB testing. Please email me your CV if you are interested.
+I am currently looking for PhD students to work on AI & DB. Please email me your CV if you are interested.
 
 ### PAPERS
+
+#### AI & DB
 
 - **Xiu Tang**, Wenhao Liu, Sai Wu, Chang Yao, Gongsheng Yuan, Shanshan Ying, Gang Chen.    
   QueryArtisan: Generating Data Manipulation Codes for Ad-hoc Analysis in Data Lakes.  
@@ -35,7 +37,21 @@ I am currently looking for PhD students to work on AI & DB and DB testing. Pleas
 
 - Zhen Zhu, Yibo Wang, Shouqing Yang, Lin Long, Runze Wu, **Xiu Tang**, Junbo Zhao, Haobo Wang.  
   [CORAL: Collaborative Automatic Labeling System based on Large Language Models.](https://www.vldb.org/pvldb/vol17/p4401-zhu.pdf)     
-  International Conference on Very Large Data Bases (**VLDB**), 2024.  
+  International Conference on Very Large Data Bases (**VLDB**), 2024.
+
+- Hongwei Yuan, **Xiu Tang**, Ke Chen, Lidan Shou, Gang Chen, Huan Li.    
+  CogSQL: A Cognitive Framework for Enhancing Large Language Models in Text-to-SQL Translation.
+  The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
+
+- Zhenlong Dai, Bingrui Chen, Zhuoluo Zhao, **Xiu Tang**, Sai Wu, Chang Yao, Zhipeng Gao, Jingyuan Chen.  
+  Less is More: Adaptive Program Repair with Bug Localization and Preference Learning.
+  The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.  
+
+- Haitian Hang, **Xiu Tang**, Bo Zhu, Jianlin Sun.  
+  [Unlocking the Power of Diversity in Index Tuning for Cluster Databases.](https://link.springer.com/chapter/10.1007/978-3-031-68312-1_15)   
+  International Conference on Database and Expert Systems Applications (**DEXA**), 2024.
+
+#### multimodal learning & NLP 
   
 - Lilong Wen, **Xiu Tang**, Dongxiang Zhang.  
   [TWIST: Text-only Weakly Supervised Scene Text Spotting Using Pseudo Labels.](https://dl.acm.org/doi/abs/10.1145/3652583.3658075)  
@@ -44,10 +60,6 @@ I am currently looking for PhD students to work on AI & DB and DB testing. Pleas
 - **Xiu Tang**, Sai Wu, Gang Chen, Ke Chen, Lidan Shou.  
   [Learning to Label with Active Learning and Reinforcement Learning.](https://link.springer.com/chapter/10.1007/978-3-030-73197-7_36)  
   Database Systems for Advanced Applications (**DASFAA**), 2021.  
-  
-- Haitian Hang, **Xiu Tang**, Bo Zhu, Jianlin Sun.  
-  [Unlocking the Power of Diversity in Index Tuning for Cluster Databases.](https://link.springer.com/chapter/10.1007/978-3-031-68312-1_15)     
-  International Conference on Database and Expert Systems Applications (**DEXA**), 2024.  
   
 - **Xiu Tang**, Yangchao Xu, Xuefeng Lu, Qiang He, Jun Fang, Junjie Chen.  
   [DeMRC: Dynamically Enhanced Multi-hop Reading Comprehension Model for Low Data.](https://link.springer.com/chapter/10.1007/978-3-031-22137-8_4)  
